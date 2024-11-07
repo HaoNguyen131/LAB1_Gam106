@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "demo.Controllers.LAB1Controller",
+    "Method": "Get",
+    "RelativePath": "api/LAB1",
+    "HttpMethod": "",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
